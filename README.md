@@ -1,4 +1,6 @@
-  Password generator for BIOS
+toshiba tecra z40-a
+PC SERIAL NO. = YE087996H
+CHALLENGE CODE =  B3XNL-GE72R-5JY2K-CJYKF-CWW8QPassword generator for BIOS
 ================================
 [![github actions status][build-status]][tests]
 [![coverage here][coverage-status]][coverage]
